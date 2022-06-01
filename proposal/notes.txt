@@ -1,0 +1,15 @@
+clive granger - old paper about aggregate ar(1) processes then you get longer
+erik renualt - 96 JOE or 98 JoMathFin with Comt - adapted granger's story 
+
+---
+
+approach 2: need to theory to bring in asset pricing factors to explain beta
+approach 1: standard forecasting paper is possible
+
+main: why does autocorrelation time vary?
+ - can also look at slope of autocorrelation curve (decay)
+
+
+----
+
+do jump panel regressions and then plot coefficient distribution on jump term
